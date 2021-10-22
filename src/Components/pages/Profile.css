@@ -1,0 +1,29 @@
+.profile__button {
+  color: white;
+  font-size: 1rem;
+  background-color: var(--clr-primary-4);
+  height: 50px;
+  width: 125px;
+  margin-top: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  border: none;
+  margin-bottom: 1rem;
+  margin: 10px;
+}
+
+.profile__button:hover {
+  background: #fff;
+  color: var(--clr-primary-4);
+  border: 2px solid var(--clr-primary-4);
+  transition-duration: 0.2s ease-out;
+}
+.btn-xlarge {
+  font-size: 18px;
+  width: 150px;
+  height: 40px;
+  line-height: normal;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
